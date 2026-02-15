@@ -1,0 +1,21 @@
+.wrapper {
+  padding: 16px;
+  display: flex;
+  justify-content: center;
+}
+
+.image {
+  width: 600px;
+  height: 600px;
+  object-fit: cover;
+}
+
+.text {
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+}
